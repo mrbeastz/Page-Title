@@ -1,0 +1,140 @@
+h1{
+    border:groove;
+    border-width:20px;
+    text-align:center;
+    color:red;
+    border-color:aqua;
+    background-color:black;
+color: red;
+    background-image: url("https://data.whicdn.com/images/304709980/original.gif");
+    padding: 40px 0;
+}
+
+
+
+
+
+body{
+  font-family: 'Lobster', cursive;  
+}
+
+
+
+
+
+#donate h2 {text-shadow: 2px 2px #FFFFFF;}
+
+
+
+
+#donate button {
+    width: 300px;   
+    height: 50px;
+    font-size: 20px;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+    border: solid white 3px;
+}
+
+
+
+
+#donate button:hover {
+    background: red;
+    color: black;
+}
+
+
+
+
+#header, #donate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+    color:red;
+}
+
+
+
+
+#pics img{
+    width: 20%;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+}
+
+
+
+
+
+#pics {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 0;
+    display: flex;
+    list-style-type: none;
+    margin-bottom: 10px;
+    color:red;
+    background-color:pink;
+    border:15px double #66ff33;
+    background-image: url("https://data.whicdn.com/images/304709980/original.gif");
+    padding: 40px 0;
+}
+
+
+
+
+
+
+#pics img:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+          border:groove red;
+          border-width:15px;
+          border-radius:80px;
+          }
+
+body{
+   background-image: url("https://data.whicdn.com/images/304709980/original.gif");
+}
+
+
+
+
+#eagles {
+    
+    color: white;
+}
+#eagles h2 {text-shadow: 3px 3px #ff0000;}
+p {
+    font-size: 20px;
+}
+
+
+#eagles  {text-shadow: 3px 3px #ff0000;}
+p {
+    font-size: 20px;
+}
+
+
+
+
+#eagles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+}
+
+
+
+
+
+
+
+    
